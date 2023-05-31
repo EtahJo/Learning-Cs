@@ -1,0 +1,15 @@
+/Users/etah/Desktop/coding/consoleApp/consoleApp/bin/Debug/net6.0/consoleApp
+/Users/etah/Desktop/coding/consoleApp/consoleApp/bin/Debug/net6.0/consoleApp.deps.json
+/Users/etah/Desktop/coding/consoleApp/consoleApp/bin/Debug/net6.0/consoleApp.runtimeconfig.json
+/Users/etah/Desktop/coding/consoleApp/consoleApp/bin/Debug/net6.0/consoleApp.dll
+/Users/etah/Desktop/coding/consoleApp/consoleApp/bin/Debug/net6.0/consoleApp.pdb
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.csproj.AssemblyReference.cache
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.AssemblyInfoInputs.cache
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.AssemblyInfo.cs
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.dll
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/refint/consoleApp.dll
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.pdb
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/consoleApp.genruntimeconfig.cache
+/Users/etah/Desktop/coding/consoleApp/consoleApp/obj/Debug/net6.0/ref/consoleApp.dll
